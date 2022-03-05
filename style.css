@@ -39,3 +39,23 @@ section {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+
+
+.dream-big {
+ display: flex;
+}
+
+.half-width2 {
+    width: 35%;
+    padding-left: 5%;
+}
+
+.half-width2 img{
+    height: 45%;
+}
+
+.half-width1{
+    width: 60%;
+}
+
+
