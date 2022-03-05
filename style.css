@@ -1,5 +1,6 @@
 body{
-    font-family: 'Poppins', sans-serif;;
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
 }
 section{
     display: flex;
@@ -9,7 +10,32 @@ section{
     width: 50%;
     padding-left: 5%;
 }
+h3{
+    font-size: 35px;
+}
 .olive-color {
     font-size: 50px;
     color: olive;
+}
+
+h1{
+    font-size: 35px;
+}
+section {
+    display: flex;
+}
+
+.half-width img {
+    width: 75%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
