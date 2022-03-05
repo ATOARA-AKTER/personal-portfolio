@@ -21,9 +21,10 @@ h3{
 h1{
     font-size: 35px;
 }
-section {
+.flexible-container{
     display: flex;
 }
+   
 
 .half-width img {
     width: 75%;
@@ -51,11 +52,17 @@ section {
 }
 
 .half-width2 img{
-    height: 45%;
+    width: 45%;
 }
 
 .half-width1{
     width: 60%;
 }
 
+.flexible-container{
+    display: flex;
+}
 
+.experience-area{
+    display: inline-block;
+}
